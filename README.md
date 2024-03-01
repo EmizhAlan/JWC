@@ -1,0 +1,2 @@
+# JWC
+JavaScript Word Counter
